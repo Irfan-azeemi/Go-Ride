@@ -1,0 +1,6 @@
+{
+  "name": "GoRide",
+  "description": "Your Journey, Your Choice! Pakistan's Car & Bike Booking Platform with live Google Maps routing, PKR fare estimation, Customer Portal, and Admin Fleet Console.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
